@@ -1,2 +1,2 @@
 # Shitsngigs
-this is the readme file
+this is the README.md
