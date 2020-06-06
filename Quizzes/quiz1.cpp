@@ -8,9 +8,9 @@ using namespace std;
 int main()
 {
 	string answer, name, fileName;
-	cout << "What is your name" << endl;
+	cout << "What is your name?" << endl;
 	cin >> name;
-	fileName = /*"Quizzes\\" + */ name + "quiz1.xls";
+	fileName = "Quizzes\\" + name + "quiz1.xls";
 	ofstream answerFile(fileName);
 	vector<string> answers;
 	vector<string> questions = {"What is a preprocessor directive?",
@@ -25,6 +25,7 @@ int main()
 	};
 	
 	answerFile << "Question: " << "\t" << "Answers: " << endl;
+	cin.ignore();
 	for(int i = 0; i < questions.size(); i++){
 		cout << questions[i] << endl;
 		getline(cin, answer);
