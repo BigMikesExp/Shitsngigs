@@ -8,10 +8,6 @@ using namespace std;
 int main()
 {
 	string answer, name, fileName;
-	cout << "What is your name?" << endl;
-	cin >> name;
-	fileName = "Quizzes\\" + name + "quiz1.xls";
-	ofstream answerFile(fileName);
 	vector<string> answers;
 	vector<string> questions = {"What is a preprocessor directive?",
 	"Using the header file #include <iostream> allows you to use what statement?",
@@ -23,6 +19,11 @@ int main()
 	"When declaring a char variable, how is the character enclosed?",
 	"What do you need to use string variables?",
 	};
+
+	cout << "What is your name?" << endl;
+	cin >> name;
+	fileName = "Quizzes\\" + name + "quiz1.xls";
+	ofstream answerFile(fileName);
 	
 	answerFile << "Question: " << "\t" << "Answers: " << endl;
 	cin.ignore();
