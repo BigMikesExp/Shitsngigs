@@ -22,7 +22,7 @@ int main()
 
 	cout << "What is your name?" << endl;
 	cin >> name;
-	fileName = "Quizzes\\" + name + "quiz1.xls";
+	fileName = "Quizzes\\Answers\\" + name + "quiz1.xls";
 	ofstream answerFile(fileName);
 	
 	answerFile << "Question: " << "\t" << "Answers: " << endl;
