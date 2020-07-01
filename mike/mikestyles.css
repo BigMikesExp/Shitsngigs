@@ -1,12 +1,40 @@
+body {
+    margin: 4rem 0 0 0;
+}
+
 nav{
-    text-align: center;
-    margin: 2rem;
-    padding: .25rem 0;
-    background-color: rgb(218, 221, 221);
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: rgb(238, 238, 238);
+    height: 3rem;
 }
 
 nav ul{
     list-style: none;
+    height: 100%;
+    margin: 0;
+}
+
+a {
+    color: black;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+div a, li a {
+    margin: 0 .25rem;
+    padding: 1rem;
+}
+
+.project {
+
 }
 
 .container > * {
@@ -19,7 +47,7 @@ nav ul{
     text-align: center;
     padding: 1rem;
     color: black;
-    background-color: rgb(218, 221, 221);
+    background-color: rgb(238, 238, 238);
 }
 
 .container > *:hover{
@@ -44,4 +72,75 @@ div img{
 
 div span{
     background-color: white;
+    min-height: 3rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 1.5rem;
+    left: .25rem;
+    background-color: #f9f9f9;
+    min-width: 8.5rem;
+    overflow: hidden;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 999;
+}
+
+.dropdown-content div {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 12px 16px;
+}
+  
+.dropdown-content div:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+.dropdown-content a {
+    color:#fff;
+}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* navigation bar */
+.navbar {
+
+}
+
+.navbar a:hover{
+    background-color: black;
+    color: white;
+}
+
+.navigation {
+    align-items: center;
+    padding-right: 2.5rem;
+    border-right: 2px solid white;
+}
+
+.socials {
+    align-items: center;
+    margin-right: 2.5rem;
+    border-left: 2px solid white;
 }

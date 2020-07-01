@@ -3,13 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Michael's Profile</title>
     <link href = "mikestyles.css" rel = "stylesheet">
+    <link rel="stylesheet" href="./fontawesome-free-5.13.1-web/fontawesome-free-5.13.1-web/css/svg-with-js.css">
 </head>
 <body>
-    <nav>
-        <ul>
+    <nav class="navbar flex space-between">
+        <ul class="navigation flex">
             <li><a href="../index.html">Home</a></li>
+            <li class="dropdown">
+                <div class="dropdown-content">
+                    <div>
+                        <a href="../index.html">Project 1</a>
+                    </div>
+                    <div>
+                        <a href="../index.html">Project 2</a>
+                    </div>
+                    <div>
+                        <a href="../index.html">Project 3</a>
+                    </div>
+                </div>
+                <a href="#"><i class="fa fa-folder" aria-hidden="true"></i>Projects</a>
+            </li>
+            <li><a href="../index.html">Contact</a></li>
+        </ul>
+        <ul class="socials flex">
+            <li><a href="#">Github</a></li>
+            <li><a href="#">GMail</a></li>
+            <li><a href="#">LinkedIn</a></li>
         </ul>
     </nav>
     <div class = "project container">
