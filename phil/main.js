@@ -3,10 +3,10 @@ var nav = document.createElement('nav')
 ,   navUl = document.createElement('ul')
 
 var links = [
-{link:"/Shitsngigs/phil/indexPhil.html", text:"Home"},
-{link:"/Shitsngigs/phil/google-homepage/index.html",text:"01:Google Home Page"},
-/*{link:"#",text:"02:Second Project"},
-{link:"#",text:"03:Third Project"}*/
+{link:"https://bigmikesexp.github.io/Shitsngigs/phil/indexPhil.html", text:"Home"},
+{link:"https://bigmikesexp.github.io/Shitsngigs/phil/google-homepage/index.html",text:"01:Google Home Page"},
+{link:"#",text:"02:Second Project"},
+{link:"#",text:"03:Third Project"}
 ]
 
 nav.prepend(navUl);
