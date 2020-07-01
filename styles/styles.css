@@ -33,7 +33,7 @@ nav ul li{
 }
 
 .dropdown-content a:hover {
-    background-color: #000000;
+    background-color: hsl(225, 100%, 86%);;
     color:#fff;
 }
 

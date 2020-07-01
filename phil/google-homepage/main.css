@@ -21,7 +21,7 @@ main > *{
     margin:0 auto;
 }
 
-ul li{
+ul.goog li{
     list-style: none;
     padding:0 10px;
     margin:0;
@@ -66,8 +66,6 @@ input[type="button"]:hover{
 
 footer{
     background-color:#f2f2f2;
-    position:absolute;
-    bottom:0;
     width:100%;
 }
 
