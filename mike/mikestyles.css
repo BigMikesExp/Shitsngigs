@@ -132,7 +132,7 @@ div span{
 
 }
 
-.navbar li:hover a, .socials li:hover {
+.navbar li:hover *, .socials li:hover {
     background-color: black;
     color: white;
 }
