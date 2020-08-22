@@ -1,0 +1,27 @@
+/*basic reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Page settings */
+html {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, #fff 0%, #aaa 100%) no-repeat;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+.hamburger{
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    z-index: 0;
+    font-size: 50px;
+    color: #f00;
+    text-shadow: black -1px 1px 0px, black 1px 1px 0px, black -1px -1px 0px, black 1px -1px 0px;
+    cursor:pointer;
+    user-select: none;
+   }
