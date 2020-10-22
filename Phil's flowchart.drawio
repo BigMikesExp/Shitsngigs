@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T02:42:11.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="_sZqKOBY9mUDBPPvhm05" version="13.8.1" type="github">
-  <diagram id="LQlHrmRZi087rSzwUS9f" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-10-22T03:20:48.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="qLW1Ajgjtzasee4U5L3O" version="13.8.1" type="github" pages="2">
+  <diagram id="LQlHrmRZi087rSzwUS9f" name="Phil">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#182E3E" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -65,11 +65,90 @@
           <mxGeometry x="280" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <UserObject label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="__gFQp-27cVtTYfEqAuZ-8">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
             <mxGeometry x="340" width="160" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="YTYvgC7u8fWfrFKkNiMa-31" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;exitX=0.222;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_EFe26jHxkVhjVEouuX-13" target="A_EFe26jHxkVhjVEouuX-7">
+        <mxCell id="YTYvgC7u8fWfrFKkNiMa-31" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;exitX=0.222;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A_EFe26jHxkVhjVEouuX-13" target="A_EFe26jHxkVhjVEouuX-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Mike" id="-5ZuO66i7VHEPqibrBUk">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-0" />
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-1" parent="HEBn-ZwIGKUZ-xFCiAPG-0" />
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-2" value="&lt;div&gt;Develop a Game&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="360" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-3" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="70" as="sourcePoint" />
+            <mxPoint x="260" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-4" value="Learn in/outs of github" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="120" as="sourcePoint" />
+            <mxPoint x="340" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-6" value="How to deploy game" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-8" value="What is the game" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="360" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-10" value="What tools do we need" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="520" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-12" value="&lt;div&gt;Learn Kotlin&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-13" value="game name?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="480" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-14" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-8" target="HEBn-ZwIGKUZ-xFCiAPG-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="330" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-15" value="characters" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+          <mxGeometry x="280" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="HEBn-ZwIGKUZ-xFCiAPG-16">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
+            <mxGeometry x="340" width="160" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-17" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;exitX=0.222;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-13" target="HEBn-ZwIGKUZ-xFCiAPG-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="290" as="sourcePoint" />
             <mxPoint x="450" y="240" as="targetPoint" />
