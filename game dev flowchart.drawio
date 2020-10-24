@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T15:50:42.093Z" agent="5.0 (Windows)" etag="mfH1B2mwQcESIepPXHSl" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-24T15:54:59.594Z" agent="5.0 (Windows)" etag="CMehRveY8WW4CRxM9RKX" version="13.8.1" type="github" pages="2">
   <diagram id="LQlHrmRZi087rSzwUS9f" name="Phil">
-    <mxGraphModel dx="1822" dy="1173" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1173" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,6 +34,11 @@
         <mxCell id="rkaj9FJLYy9ZAXitsgkI-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="A_EFe26jHxkVhjVEouuX-7" target="N-RR1U5ewOOgkyhQM1mz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_EFe26jHxkVhjVEouuX-7" target="N-RR1U5ewOOgkyhQM1mz-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_EFe26jHxkVhjVEouuX-7" value="What is the game" style="square;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -129,7 +134,7 @@
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-9" value="Languages" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};rounded=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-30" width="280" height="220" as="geometry" />
+          <mxGeometry x="664" y="-166" width="280" height="220" as="geometry" />
         </mxCell>
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="N-RR1U5ewOOgkyhQM1mz-9" source="N-RR1U5ewOOgkyhQM1mz-12" target="N-RR1U5ewOOgkyhQM1mz-13">
           <mxGeometry relative="1" as="geometry" />
@@ -169,8 +174,11 @@
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-19" value="https://docs.microsoft.com/en-us/learn/paths/manage-project-lifecycle-github/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="N-RR1U5ewOOgkyhQM1mz-17">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-36" value="Music/sound effects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="359" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-27" value="Tools" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="660" y="300" width="140" height="104" as="geometry" />
+          <mxGeometry x="670" y="94" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-28" value="VSCode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="N-RR1U5ewOOgkyhQM1mz-27">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -183,6 +191,15 @@
         </mxCell>
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Develop&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Game&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-37" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="N-RR1U5ewOOgkyhQM1mz-33" target="N-RR1U5ewOOgkyhQM1mz-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="115" as="sourcePoint" />
+            <mxPoint x="284" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-38" value="&lt;div&gt;Prototyping&lt;/div&gt;&lt;div&gt;Prototyping&lt;/div&gt;&lt;div&gt;Prototyping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="116" y="-198" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
