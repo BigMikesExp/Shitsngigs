@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:42:48.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="tPwVRWwrh2bNEfgUoUMX" version="13.8.1" type="github" pages="2">
-  <diagram id="LQlHrmRZi087rSzwUS9f" name="Phil">
-    <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+<mxfile host="app.diagrams.net" modified="2020-10-26T15:00:53.989Z" agent="5.0 (Windows)" etag="CvNgs-0Ie1Utv9v98Frz" version="13.8.2" type="github" pages="2">
+  <diagram id="LQlHrmRZi087rSzwUS9f" name="Main">
+    <mxGraphModel grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" page="0" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,19 +124,19 @@
         <mxCell id="9YRhju4re-X4gGqI2iqe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-RR1U5ewOOgkyhQM1mz-36" target="9YRhju4re-X4gGqI2iqe-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-RR1U5ewOOgkyhQM1mz-36" value="Music/sound effects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-36" value="Music/sound effects" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="583" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-RR1U5ewOOgkyhQM1mz-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Develop&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Game&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N-RR1U5ewOOgkyhQM1mz-37" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="N-RR1U5ewOOgkyhQM1mz-33" target="N-RR1U5ewOOgkyhQM1mz-38">
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-37" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="N-RR1U5ewOOgkyhQM1mz-33" target="N-RR1U5ewOOgkyhQM1mz-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="115" as="sourcePoint" />
             <mxPoint x="284" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-RR1U5ewOOgkyhQM1mz-38" value="&lt;div&gt;Prototyping&lt;/div&gt;&lt;div&gt;Prototyping&lt;/div&gt;&lt;div&gt;Prototyping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="N-RR1U5ewOOgkyhQM1mz-38" value="&lt;div&gt;Prototyping&lt;/div&gt;&lt;div&gt;Prototyping&lt;/div&gt;&lt;div&gt;Prototyping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="116" y="-198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9YRhju4re-X4gGqI2iqe-1" value="&lt;div&gt;Sonic Pi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -223,81 +223,22 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Mike" id="-5ZuO66i7VHEPqibrBUk">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#182E3E" math="0" shadow="0">
+  <diagram id="HxxKtC5qOTDmX623afmT" name="Ideas">
+    <mxGraphModel dx="1422" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-0" />
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-1" parent="HEBn-ZwIGKUZ-xFCiAPG-0" />
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-2" value="&lt;div&gt;Develop a Game&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="360" y="30" width="120" height="50" as="geometry" />
+        <mxCell id="NZ4esW1d6UcTNpKePDM_-0" />
+        <mxCell id="NZ4esW1d6UcTNpKePDM_-1" parent="NZ4esW1d6UcTNpKePDM_-0" />
+        <mxCell id="wJ21ekL1f7_dwKInWfjp-1" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="NZ4esW1d6UcTNpKePDM_-1" source="NZ4esW1d6UcTNpKePDM_-2" target="wJ21ekL1f7_dwKInWfjp-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-3" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="70" as="sourcePoint" />
-            <mxPoint x="260" y="180" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NZ4esW1d6UcTNpKePDM_-2" value="&lt;h1&gt;Studio Name&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Was trying to write a program that picks a random adjective and noun from a list and displays the two together in hopes of helping come up with a name for when we publish. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Would like to accomplish this in Kotlin. (Need to learn more about how to do random)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="NZ4esW1d6UcTNpKePDM_-1">
+          <mxGeometry x="43" y="34" width="190" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-4" value="Learn in/outs of github" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry width="120" height="50" as="geometry" />
+        <mxCell id="wJ21ekL1f7_dwKInWfjp-2" value="nameGeneratot.kt" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="NZ4esW1d6UcTNpKePDM_-1">
+          <mxGeometry x="317" y="94" width="203" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="120" as="sourcePoint" />
-            <mxPoint x="340" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-6" value="How to deploy game" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="420" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-8" value="What is the game" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="360" y="250" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="470" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-10" value="What tools do we need" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="520" y="120" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-2" target="HEBn-ZwIGKUZ-xFCiAPG-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="590" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-12" value="&lt;div&gt;Learn Kotlin&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="730" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-13" value="game name?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="480" y="360" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-14" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-8" target="HEBn-ZwIGKUZ-xFCiAPG-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="330" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-15" value="characters" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-          <mxGeometry x="280" y="360" width="80" height="40" as="geometry" />
-        </mxCell>
-        <UserObject label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="HEBn-ZwIGKUZ-xFCiAPG-16">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1">
-            <mxGeometry x="340" width="160" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="HEBn-ZwIGKUZ-xFCiAPG-17" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;exitX=0.222;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HEBn-ZwIGKUZ-xFCiAPG-1" source="HEBn-ZwIGKUZ-xFCiAPG-13" target="HEBn-ZwIGKUZ-xFCiAPG-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="290" as="sourcePoint" />
-            <mxPoint x="450" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wJ21ekL1f7_dwKInWfjp-0" value="&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;var adj = setOf(&quot;some&quot;, &quot;adjectives)&lt;br&gt;var noun = setOf(&quot;a&quot;, &quot;few&quot;, &quot;nouns&quot;)&lt;br&gt;&lt;br&gt;fun main(){&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; //get a random adj &amp;amp; noun&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; println(rAdj rNoun)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#666666;fontColor=#333333;fillColor=#666666;" vertex="1" parent="wJ21ekL1f7_dwKInWfjp-2">
+          <mxGeometry x="1" y="23" width="202" height="177" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
